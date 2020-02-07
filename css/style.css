@@ -1,0 +1,10 @@
+.item1 { grid-area: header; }
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px;
+    background-color:  #1496ed;
+}
+
+.grid-container div {
+    /*background-color:  #1496ed;*/
+}
